@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Glowstick0017
+- 👋 Hi, I’m Robbie
 - 🐧 Creator of Tux bot
 - 👀 I’m interested in learning new languages and contributing to open source projects
 - 🌱 I’m currently learning go, .NET/C#, and much more
