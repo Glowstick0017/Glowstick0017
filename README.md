@@ -3,7 +3,7 @@
 - 🩺 Technology Development Intern at UnitedHealth Group // Optum
 - 👀 I’m interested in learning new languages and contributing to open source projects
 - 🌱 I’m currently learning golang, rust, .NET/C#, and much more
-- 📫 Reach me on discord @ Glowstick#0017
+- 📫 Reach me on discord @ [Glowstick#0017](https://discord.com/invite/4rtjKrg)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=Glowstick0017&show_icons=true&theme=synthwave)
 
