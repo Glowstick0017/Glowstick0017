@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Robbie (He/Him)
-- 🐧 Creator of Tux bot
+- 🐧 Creator of [Tux bot](https://tuxthebot.dev)
 - 🩺 Technology Development Intern at UnitedHealth Group // Optum
 - 👀 I’m interested in learning new languages and contributing to open source projects
 - 🌱 I’m currently learning golang, rust, .NET/C#, and much more
