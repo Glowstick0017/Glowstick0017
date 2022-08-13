@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Robbie (He/Him)
 - 🐧 Creator of [Tux bot](https://tuxthebot.dev)
-- 🩺 Back-end Technology Development Intern at UnitedHealth Group // Optum
+<!--- 🩺 Back-end Technology Development Intern at UnitedHealth Group // Optum--->
 - 👀 I’m interested in learning new languages and contributing to open source projects
 - 🌱 I’m currently learning golang, rust, .NET/C#, and much more
 - 📫 Reach me on discord @ [Glowstick#0017](https://discord.com/invite/4rtjKrg)
