@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Robbie (He/Him)
 - 🐧 Creator of [Tux bot](https://tuxthebot.dev)
 - 👀 I’m interested in learning new languages and contributing to open source projects
-- 🌱 I’m currently learning golang, rust, .NET/C#, and much more
+- 🌱 I’m currently learning golang, rust, .NET/C# with unity, blender, and much more
 - 📫 Reach me on discord @ [Glowstick#0017](https://discord.com/invite/4rtjKrg)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=Glowstick0017&show_icons=true&theme=synthwave)
