@@ -1,3 +1,5 @@
+![](https://pbs.twimg.com/media/F8LE5snWQAAdLh7?format=jpg&name=medium)
+
 - 👋 Hi, I’m Robbie (He/Him)
 - 🐧 Creator of [Tux bot](https://tuxthebot.dev)
 - 📚 [Researcher](https://search.asu.edu/profile/3115118) at Arizona State University
