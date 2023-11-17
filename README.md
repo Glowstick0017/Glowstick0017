@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Robbie (He/Him)
 - 🐧 Creator of [Tux bot](https://tuxthebot.dev)
 - 📚 [Researcher](https://search.asu.edu/profile/3115118) at Arizona State University
-- 🩺 Technology Development Associate at UnitedHealth Group // Optum
+- 🩺 Associate Software Engineer at UnitedHealth Group // Optum
 - 👀 I’m interested in learning new languages and contributing to open source projects
 - 🌱 I’m currently learning golang, rust, carbon, and much more
 - 📫 Reach me on discord @ [Glowstick](https://discord.com/invite/4rtjKrg)
