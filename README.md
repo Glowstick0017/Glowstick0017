@@ -6,8 +6,6 @@
 - 🌱 I’m currently learning golang, rust, carbon, and much more
 - 📫 Reach me on discord @ [Glowstick](https://discord.com/invite/4rtjKrg)
 
-![](https://pbs.twimg.com/media/F8LE5snWQAAdLh7?format=jpg&name=small)
-
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api?username=Glowstick0017&show_icons=true&theme=synthwave)
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Glowstick0017&theme=synthwave)
