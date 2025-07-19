@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Robbie (He/Him)
-- 🐧 Creator of [Tux bot](https://tuxthebot.dev)
+- 🐧 Creator of [Tux bot](https://glowstick.me/tux)
 - 📚 [Researcher](https://search.asu.edu/profile/3115118) at Arizona State University ([Published Research Paper](https://arxiv.org/abs/2310.09528))
 - 🩺 Software Engineer at UnitedHealth Group // Optum
 - 👀 I’m interested in learning new languages and contributing to open source projects
